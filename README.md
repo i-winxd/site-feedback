@@ -5,7 +5,8 @@ if you see anything on my site that is broken, open up an issue here.
 This includes things crashing, things not working like usual, and so on.
 
 **NOTE: I cannot guarantee timely responses to issues,** so please don't make one expecting
-I'll get back to you on the next day or even eventually.
+I'll get back to you on the next day or even eventually. Also feature requests are definitely not guaranteed
+so don't write them with the expectation they'll be done.
 
 ## Are you cartmanlanding the site's source code?
 
